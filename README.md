@@ -1,2 +1,3 @@
-# OVPN
-OVPN
+After working with my Raspberry Pi and Monero “Bitcoin” mining (thank you tom’s hardware), last night I completed a second technology exploring project. I set up and tested my new Arduino lie detector or more accurately my new impedance pneumographic monitor (thank you electro peak)...
+
+Both pieces of technology seem to be particularly useful for learning and exploring technology.
